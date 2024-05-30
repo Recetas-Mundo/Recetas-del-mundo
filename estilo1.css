@@ -7,8 +7,8 @@ body {
 }
 
 header {
-    background-color: rgb(96, 214, 41);
-    color: yellow;
+    background-color: rgb(66, 167, 19);
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 20px 0;
 }
@@ -99,8 +99,8 @@ header p {
 }
 
 footer {
-    background-color: red;
-    color: rgb(54, 54, 47);
+    background-color: rgb(41, 39, 39);
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 10px 0;
     position: fixed;
